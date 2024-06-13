@@ -8,3 +8,6 @@ Personal thoughts: I was never a gamer girl, but now I discovered I like to crea
 Screenshots: 
 Here are some screenshots to see features of my project. 
 ![SCREENSHOT1](./guessmynumber0.png)
+![SCREENSHOT2](./guessmynumber2.png)
+![SCREENSHOT3](./guessmynumber1.png)
+
