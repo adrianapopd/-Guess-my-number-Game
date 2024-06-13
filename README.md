@@ -4,3 +4,7 @@ This is my first step into programming world. Following the Udemy Course "The co
 Personal thoughts: I was never a gamer girl, but now I discovered I like to create them! 
 
 [[[Link to Udemy Course] ](https://www.udemy.com/course/the-complete-javascript-course/?couponCode=KEEPLEARNING)
+
+Screenshots: 
+Here are some screenshots to see features of my project. 
+![SCREENSHOT1](/relative/path/to/guessmynumber0.pngraw=true "First step")
