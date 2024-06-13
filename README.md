@@ -7,4 +7,4 @@ Personal thoughts: I was never a gamer girl, but now I discovered I like to crea
 
 Screenshots: 
 Here are some screenshots to see features of my project. 
-![SCREENSHOT1](/relative/path/to/guessmynumber0.pngraw=true "First step")
+![SCREENSHOT1]("guessmynumber0.png")
